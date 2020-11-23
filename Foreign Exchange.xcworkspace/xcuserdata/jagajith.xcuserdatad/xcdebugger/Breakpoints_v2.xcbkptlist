@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9430D148-8BF5-443F-A37C-9A354F33F74D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAEF3DE0-3DBF-48C8-9F6C-9885F9829827"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Foreign Exchange/ViewControllers/CurrencyDetails/CurrencyDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B71C38A9-0F3E-4003-814B-B77E751F72C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Foreign Exchange/ViewControllers/CurrencyComparison/CurrencyComparisonViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "fetchComparisonDates()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B71C38A9-0F3E-4003-814B-B77E751F72C0 - 20dfeeb9003359ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foreign_Exchange.CurrencyComparisonDetails, Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in Foreign_Exchange.CurrencyComparisonViewController.fetchComparisonDates() -&gt; ()"
+                  moduleName = "Foreign Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagajith/Desktop/PetSafe%20Test/Foreign%20Exchange/Foreign%20Exchange/ViewControllers/CurrencyComparison/CurrencyComparisonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "255">
+               </Location>
+               <Location
+                  uuid = "B71C38A9-0F3E-4003-814B-B77E751F72C0 - 20dfeeb9003359ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foreign_Exchange.CurrencyComparisonDetails, Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in Foreign_Exchange.CurrencyComparisonViewController.fetchComparisonDates() -&gt; ()"
+                  moduleName = "Foreign Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagajith/Desktop/PetSafe%20Test/Foreign%20Exchange/Foreign%20Exchange/ViewControllers/CurrencyComparison/CurrencyComparisonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "287">
+               </Location>
+               <Location
+                  uuid = "B71C38A9-0F3E-4003-814B-B77E751F72C0 - 20dfeeb9003359ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foreign_Exchange.CurrencyComparisonDetails, Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in Foreign_Exchange.CurrencyComparisonViewController.fetchComparisonDates() -&gt; ()"
+                  moduleName = "Foreign Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagajith/Desktop/PetSafe%20Test/Foreign%20Exchange/Foreign%20Exchange/ViewControllers/CurrencyComparison/CurrencyComparisonViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1477">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "377CCABE-48AA-4BD0-9BFD-73AFD106A6AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Foreign Exchange/WebService/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "fetchCurrencyDetails(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "377CCABE-48AA-4BD0-9BFD-73AFD106A6AB - 25abaa68ead19db1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foreign_Exchange.CurrencyDetails, Swift.Error&gt;) -&gt; () in Foreign_Exchange.WebService.fetchCurrencyDetails(completion: (Swift.Result&lt;Foreign_Exchange.CurrencyDetails, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Foreign Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagajith/Desktop/PetSafe%20Test/Foreign%20Exchange/Foreign%20Exchange/WebService/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "203">
+               </Location>
+               <Location
+                  uuid = "377CCABE-48AA-4BD0-9BFD-73AFD106A6AB - 25abaa68ead19db1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foreign_Exchange.CurrencyDetails, Swift.Error&gt;) -&gt; () in Foreign_Exchange.WebService.fetchCurrencyDetails(completion: (Swift.Result&lt;Foreign_Exchange.CurrencyDetails, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Foreign Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagajith/Desktop/PetSafe%20Test/Foreign%20Exchange/Foreign%20Exchange/WebService/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "231">
+               </Location>
+               <Location
+                  uuid = "377CCABE-48AA-4BD0-9BFD-73AFD106A6AB - 25abaa68ead19db1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foreign_Exchange.CurrencyDetails, Swift.Error&gt;) -&gt; () in Foreign_Exchange.WebService.fetchCurrencyDetails(completion: (Swift.Result&lt;Foreign_Exchange.CurrencyDetails, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Foreign Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagajith/Desktop/PetSafe%20Test/Foreign%20Exchange/Foreign%20Exchange/WebService/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "1209">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

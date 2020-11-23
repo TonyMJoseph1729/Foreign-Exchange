@@ -1,0 +1,5 @@
+
+ROOT_URL = http:/$()/data.fixer.io/api/
+API_KEY = 2ff4b6de54da161568dc303930de18e8
+APP_NAME = Foreign Exchange_QA
+APP_BUNDLE_ID = com.petsafetest.Foreign-Exchange.qa

@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.5)
+  - SwiftSpinner (2.1.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - SwiftSpinner
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SwiftSpinner
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  SwiftSpinner: 0f15c006307f8d8bbac075638927ec1361b565d7
+
+PODFILE CHECKSUM: 6e6c8b397c0516f63864ae1372b6b6ad7c01ea14
+
+COCOAPODS: 1.9.2
